@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    /* Copiar letras  */
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to top, black 20%, rgb(54, 52, 52)80%);
+    background-repeat: unset;
+    /*Posible Cambio */
+}
+
+header {
+    height: 50vh;
+    width: 100vw;
+    color: white;
+}
+
+a:hover {
+    background-color: black;
+}
+
+footer {
+    width: 100vw;
+    height: 100%;
+}
