@@ -7,6 +7,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.sect {
+    color: white;
+}
+
 body {
     height: 100%;
     background-image: linear-gradient(to top, black 20%, rgb(54, 52, 52)80%);
@@ -27,4 +31,7 @@ a:hover {
 footer {
     width: 100vw;
     height: 100%;
+    background-color: black;
+    border: 2px aqua inset;
+    color: black;
 }
