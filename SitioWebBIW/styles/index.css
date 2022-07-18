@@ -35,3 +35,8 @@ footer {
     border: 2px aqua inset;
     color: black;
 }
+
+img {
+    background-image: linear-gradient(to top, black 20%, aqua 80%);
+    background-blend-mode: multiply;
+}

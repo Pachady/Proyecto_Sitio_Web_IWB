@@ -22,5 +22,11 @@
   - Recomendaciones HeaNavIg
 
 - Tamaño Header y Nav Iguales
+
   - Heig: 40 vh
   - Widht: 100vw
+
+- Forma de trabajo
+  - home y header nav
+  - recomendaciones y sobre nosotros - footer
+  - lugares turisticos Pagina(carrusel)+paginas de cada una
